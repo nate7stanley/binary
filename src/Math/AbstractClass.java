@@ -17,6 +17,7 @@ class Employee extends AbstractClass {
         System.out.println(age);
         System.out.println(salary);
     }
+
 }
 
 class Base {
